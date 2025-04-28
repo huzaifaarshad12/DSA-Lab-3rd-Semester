@@ -1,0 +1,14 @@
+D:\Univeristy 3rd smester\DSA\Pharmacy system\Pharmacy system\bin\Debug\Pharmacy system.exe.config
+D:\Univeristy 3rd smester\DSA\Pharmacy system\Pharmacy system\bin\Debug\Pharmacy system.exe
+D:\Univeristy 3rd smester\DSA\Pharmacy system\Pharmacy system\bin\Debug\Pharmacy system.pdb
+D:\Univeristy 3rd smester\DSA\Pharmacy system\Pharmacy system\obj\Debug\Pharmacy system.csproj.AssemblyReference.cache
+D:\Univeristy 3rd smester\DSA\Pharmacy system\Pharmacy system\obj\Debug\Pharmacy system.csproj.CoreCompileInputs.cache
+D:\Univeristy 3rd smester\DSA\Pharmacy system\Pharmacy system\obj\Debug\Pharmacy system.exe
+D:\Univeristy 3rd smester\DSA\Pharmacy system\Pharmacy system\obj\Debug\Pharmacy system.pdb
+D:\Documents\Semester3\DSA Lab\dsa-final-project\Pharmacy system\Pharmacy system\bin\Debug\Pharmacy system.exe.config
+D:\Documents\Semester3\DSA Lab\dsa-final-project\Pharmacy system\Pharmacy system\bin\Debug\Pharmacy system.exe
+D:\Documents\Semester3\DSA Lab\dsa-final-project\Pharmacy system\Pharmacy system\bin\Debug\Pharmacy system.pdb
+D:\Documents\Semester3\DSA Lab\dsa-final-project\Pharmacy system\Pharmacy system\obj\Debug\Pharmacy system.csproj.AssemblyReference.cache
+D:\Documents\Semester3\DSA Lab\dsa-final-project\Pharmacy system\Pharmacy system\obj\Debug\Pharmacy system.csproj.CoreCompileInputs.cache
+D:\Documents\Semester3\DSA Lab\dsa-final-project\Pharmacy system\Pharmacy system\obj\Debug\Pharmacy system.exe
+D:\Documents\Semester3\DSA Lab\dsa-final-project\Pharmacy system\Pharmacy system\obj\Debug\Pharmacy system.pdb
